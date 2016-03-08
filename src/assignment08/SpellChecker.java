@@ -52,7 +52,8 @@ public class SpellChecker {
 	 *            - the String to be added to the dictionary
 	 */
 	public void addToDictionary(String word) {
-		dictionary.add(word);
+		String lower = word.toLowerCase();
+		dictionary.add(lower);
 	}
 
 	/**
@@ -62,7 +63,8 @@ public class SpellChecker {
 	 *            - the String to be removed from the dictionary
 	 */
 	public void removeFromDictionary(String word) {
-		dictionary.remove(word);
+		String lower = word.toLowerCase();
+		dictionary.remove(lower);
 	}
 
 	/**
@@ -84,7 +86,8 @@ public class SpellChecker {
 
 			while (fileInput.hasNext()) {
 				String s = fileInput.next();
-				if (dictionary.contains(s) == false) {
+				String p = s.toLowerCase();
+				if (dictionary.contains(p) == false) {
 					misspelled.add(s.toLowerCase());
 				}
 			}
@@ -105,8 +108,11 @@ public class SpellChecker {
 	 *            - the List of Strings to be added to the dictionary
 	 */
 	private void buildDictionary(List<String> words) {
-		for(String temp: words)
-			dictionary.addAll(words);
+			for(String temp: words)
+			{
+				String lower = temp.toLowerCase();
+				dictionary.add(lower);
+			}
 	}
 
 	/**
