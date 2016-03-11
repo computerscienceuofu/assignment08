@@ -87,7 +87,13 @@ public class BinarySearchTree<T extends Comparable<? super T>> implements Sorted
 		this.root = null;
 		size = 0;
 	}
-
+	
+	/**
+	 * This method recursively checks whether the item is in the BST
+	 * @param item - item to be checked for
+	 * @param root - starting node to begin checking for item
+	 * @return
+	 */
 	private boolean recursiveContains(T item, Node<T> root){
 		if(root == null){
 			return false;

@@ -1,0 +1,14 @@
+digraph BST {
+node [shape=record]
+jack[label="<L> |<D> jack|<R> "]
+monkey[label="<L> |<D> monkey|<R> "]
+leopard[label="<L> |<D> leopard|<R> "]
+monkey:R -> leopard:D
+jack:L -> monkey:D
+cat[label="<L> |<D> cat|<R> "]
+dog[label="<L> |<D> dog|<R> "]
+elephant[label="<L> |<D> elephant|<R> "]
+dog:L -> elephant:D
+cat:L -> dog:D
+jack:R -> cat:D
+}
