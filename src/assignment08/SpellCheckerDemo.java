@@ -8,18 +8,29 @@ import java.util.List;
  * 
  * @author
  */
+
 public class SpellCheckerDemo {
 
   public static void main(String[] args) {
+	  
+		
+
 
     SpellChecker mySC = new SpellChecker(new File("dictionary.txt"));
 
     run_spell_check(mySC, "hello_world.txt");
     run_spell_check(mySC, "good_luck.txt");
+
+    
+
+	
     
   }
 
   private static void run_spell_check(SpellChecker sc, String documentFilename) {
+	  
+	
+	
 
     File doc = new File(documentFilename);
     List<String> misspelledWords = sc.spellCheck(doc);

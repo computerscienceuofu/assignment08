@@ -1,0 +1,401 @@
+(Contains Methods) BST and Tree Set timer	running contains on a random item	Time in NanoSeconds it takes to run the Add method
+Add method Using the Binary Search Tree	136	901
+Add method Using the Binary Search Tree	205	1503
+Add method Using the Binary Search Tree	313	1803
+Add method Using the Binary Search Tree	472	2103
+Add method Using the Binary Search Tree	573	1502
+Add method Using the Binary Search Tree	692	2104
+Add method Using the Binary Search Tree	833	902
+Add method Using the Binary Search Tree	930	1503
+Add method Using the Binary Search Tree	938	2705
+Add method Using the Binary Search Tree	1070	1803
+Add method Using the Binary Search Tree	1187	1503
+Add method Using the Binary Search Tree	1390	1203
+Add method Using the Binary Search Tree	1771	2104
+Add method Using the Binary Search Tree	1840	2104
+Add method Using the Binary Search Tree	2007	2104
+Add method Using the Binary Search Tree	2024	2705
+Add method Using the Binary Search Tree	2036	2705
+Add method Using the Binary Search Tree	2095	3006
+Add method Using the Binary Search Tree	2170	2705
+Add method Using the Binary Search Tree	2230	3006
+Add method Using the Binary Search Tree	2248	1503
+Add method Using the Binary Search Tree	2285	1803
+Add method Using the Binary Search Tree	2345	1803
+Add method Using the Binary Search Tree	2401	1804
+Add method Using the Binary Search Tree	2438	3005
+Add method Using the Binary Search Tree	2492	1803
+Add method Using the Binary Search Tree	2500	2104
+Add method Using the Binary Search Tree	2516	1804
+Add method Using the Binary Search Tree	2786	2405
+Add method Using the Binary Search Tree	2804	2104
+Add method Using the Binary Search Tree	2824	2404
+Add method Using the Binary Search Tree	2839	1503
+Add method Using the Binary Search Tree	2849	2404
+Add method Using the Binary Search Tree	2925	2404
+Add method Using the Binary Search Tree	3104	1203
+Add method Using the Binary Search Tree	3220	901
+Add method Using the Binary Search Tree	3304	901
+Add method Using the Binary Search Tree	3316	601
+Add method Using the Binary Search Tree	3355	1202
+Add method Using the Binary Search Tree	3422	1502
+Add method Using the Binary Search Tree	3443	1203
+Add method Using the Binary Search Tree	3479	2705
+Add method Using the Binary Search Tree	3515	1202
+Add method Using the Binary Search Tree	3588	601
+Add method Using the Binary Search Tree	3594	1202
+Add method Using the Binary Search Tree	3751	902
+Add method Using the Binary Search Tree	3796	1202
+Add method Using the Binary Search Tree	3953	1202
+Add method Using the Binary Search Tree	4292	601
+Add method Using the Binary Search Tree	4565	301
+Add method Using the Binary Search Tree	4566	300
+Add method Using the Binary Search Tree	4656	602
+Add method Using the Binary Search Tree	4750	301
+Add method Using the Binary Search Tree	5063	902
+Add method Using the Binary Search Tree	5307	601
+Add method Using the Binary Search Tree	5446	301
+Add method Using the Binary Search Tree	5807	300
+Add method Using the Binary Search Tree	6035	301
+Add method Using the Binary Search Tree	6218	601
+Add method Using the Binary Search Tree	6252	300
+Add method Using the Binary Search Tree	6467	300
+Add method Using the Binary Search Tree	6523	301
+Add method Using the Binary Search Tree	6669	601
+Add method Using the Binary Search Tree	6707	301
+Add method Using the Binary Search Tree	6740	300
+Add method Using the Binary Search Tree	6803	301
+Add method Using the Binary Search Tree	6875	301
+Add method Using the Binary Search Tree	6917	601
+Add method Using the Binary Search Tree	6929	601
+Add method Using the Binary Search Tree	7190	300
+Add method Using the Binary Search Tree	7235	300
+Add method Using the Binary Search Tree	7308	301
+Add method Using the Binary Search Tree	7364	300
+Add method Using the Binary Search Tree	7414	601
+Add method Using the Binary Search Tree	7417	601
+Add method Using the Binary Search Tree	7646	301
+Add method Using the Binary Search Tree	7879	301
+Add method Using the Binary Search Tree	7930	301
+Add method Using the Binary Search Tree	7973	300
+Add method Using the Binary Search Tree	8242	301
+Add method Using the Binary Search Tree	8327	601
+Add method Using the Binary Search Tree	8355	301
+Add method Using the Binary Search Tree	8415	601
+Add method Using the Binary Search Tree	8554	601
+Add method Using the Binary Search Tree	8602	300
+Add method Using the Binary Search Tree	8737	301
+Add method Using the Binary Search Tree	8829	301
+Add method Using the Binary Search Tree	8877	301
+Add method Using the Binary Search Tree	8879	300
+Add method Using the Binary Search Tree	8941	601
+Add method Using the Binary Search Tree	8960	301
+Add method Using the Binary Search Tree	9036	300
+Add method Using the Binary Search Tree	9076	300
+Add method Using the Binary Search Tree	9271	301
+Add method Using the Binary Search Tree	9476	300
+Add method Using the Binary Search Tree	9478	601
+Add method Using the Binary Search Tree	9515	301
+Add method Using the Binary Search Tree	9810	601
+Add method Using the Binary Search Tree	9855	300
+Add method Using the Binary Search Tree	9894	300
+Add method using Java's Tree Set	136	2705
+Add method using Java's Tree Set	205	2104
+Add method using Java's Tree Set	313	3006
+Add method using Java's Tree Set	472	2705
+Add method using Java's Tree Set	573	2705
+Add method using Java's Tree Set	692	601
+Add method using Java's Tree Set	833	1202
+Add method using Java's Tree Set	930	301
+Add method using Java's Tree Set	938	1503
+Add method using Java's Tree Set	1070	902
+Add method using Java's Tree Set	1187	1804
+Add method using Java's Tree Set	1390	301
+Add method using Java's Tree Set	1771	301
+Add method using Java's Tree Set	1840	902
+Add method using Java's Tree Set	2007	301
+Add method using Java's Tree Set	2024	1202
+Add method using Java's Tree Set	2036	1502
+Add method using Java's Tree Set	2095	1503
+Add method using Java's Tree Set	2170	2104
+Add method using Java's Tree Set	2230	1803
+Add method using Java's Tree Set	2248	1503
+Add method using Java's Tree Set	2285	901
+Add method using Java's Tree Set	2345	301
+Add method using Java's Tree Set	2401	901
+Add method using Java's Tree Set	2438	602
+Add method using Java's Tree Set	2492	601
+Add method using Java's Tree Set	2500	300
+Add method using Java's Tree Set	2516	601
+Add method using Java's Tree Set	2786	601
+Add method using Java's Tree Set	2804	902
+Add method using Java's Tree Set	2824	902
+Add method using Java's Tree Set	2839	902
+Add method using Java's Tree Set	2849	601
+Add method using Java's Tree Set	2925	602
+Add method using Java's Tree Set	3104	901
+Add method using Java's Tree Set	3220	301
+Add method using Java's Tree Set	3304	601
+Add method using Java's Tree Set	3316	300
+Add method using Java's Tree Set	3355	601
+Add method using Java's Tree Set	3422	301
+Add method using Java's Tree Set	3443	300
+Add method using Java's Tree Set	3479	301
+Add method using Java's Tree Set	3515	301
+Add method using Java's Tree Set	3588	301
+Add method using Java's Tree Set	3594	601
+Add method using Java's Tree Set	3751	601
+Add method using Java's Tree Set	3796	300
+Add method using Java's Tree Set	3953	1503
+Add method using Java's Tree Set	4292	601
+Add method using Java's Tree Set	4565	601
+Add method using Java's Tree Set	4566	601
+Add method using Java's Tree Set	4656	301
+Add method using Java's Tree Set	4750	300
+Add method using Java's Tree Set	5063	301
+Add method using Java's Tree Set	5307	601
+Add method using Java's Tree Set	5446	301
+Add method using Java's Tree Set	5807	601
+Add method using Java's Tree Set	6035	601
+Add method using Java's Tree Set	6218	602
+Add method using Java's Tree Set	6252	601
+Add method using Java's Tree Set	6467	601
+Add method using Java's Tree Set	6523	300
+Add method using Java's Tree Set	6669	601
+Add method using Java's Tree Set	6707	301
+Add method using Java's Tree Set	6740	601
+Add method using Java's Tree Set	6803	601
+Add method using Java's Tree Set	6875	601
+Add method using Java's Tree Set	6917	601
+Add method using Java's Tree Set	6929	301
+Add method using Java's Tree Set	7190	601
+Add method using Java's Tree Set	7235	601
+Add method using Java's Tree Set	7308	601
+Add method using Java's Tree Set	7364	601
+Add method using Java's Tree Set	7414	601
+Add method using Java's Tree Set	7417	601
+Add method using Java's Tree Set	7646	601
+Add method using Java's Tree Set	7879	301
+Add method using Java's Tree Set	7930	601
+Add method using Java's Tree Set	7973	301
+Add method using Java's Tree Set	8242	601
+Add method using Java's Tree Set	8327	602
+Add method using Java's Tree Set	8355	601
+Add method using Java's Tree Set	8415	300
+Add method using Java's Tree Set	8554	601
+Add method using Java's Tree Set	8602	300
+Add method using Java's Tree Set	8737	601
+Add method using Java's Tree Set	8829	301
+Add method using Java's Tree Set	8877	602
+Add method using Java's Tree Set	8879	301
+Add method using Java's Tree Set	8941	301
+Add method using Java's Tree Set	8960	601
+Add method using Java's Tree Set	9036	601
+Add method using Java's Tree Set	9076	300
+Add method using Java's Tree Set	9271	601
+Add method using Java's Tree Set	9476	601
+Add method using Java's Tree Set	9478	601
+Add method using Java's Tree Set	9515	602
+Add method using Java's Tree Set	9810	601
+Add method using Java's Tree Set	9855	601
+Add method using Java's Tree Set	9894	601
+Contains method Using the Binary Search Tree	136	300
+Contains method Using the Binary Search Tree	205	0
+Contains method Using the Binary Search Tree	313	0
+Contains method Using the Binary Search Tree	472	301
+Contains method Using the Binary Search Tree	573	0
+Contains method Using the Binary Search Tree	692	300
+Contains method Using the Binary Search Tree	833	301
+Contains method Using the Binary Search Tree	930	300
+Contains method Using the Binary Search Tree	938	0
+Contains method Using the Binary Search Tree	1070	0
+Contains method Using the Binary Search Tree	1187	300
+Contains method Using the Binary Search Tree	1390	0
+Contains method Using the Binary Search Tree	1771	0
+Contains method Using the Binary Search Tree	1840	301
+Contains method Using the Binary Search Tree	2007	300
+Contains method Using the Binary Search Tree	2024	300
+Contains method Using the Binary Search Tree	2036	301
+Contains method Using the Binary Search Tree	2095	0
+Contains method Using the Binary Search Tree	2170	0
+Contains method Using the Binary Search Tree	2230	300
+Contains method Using the Binary Search Tree	2248	301
+Contains method Using the Binary Search Tree	2285	301
+Contains method Using the Binary Search Tree	2345	301
+Contains method Using the Binary Search Tree	2401	0
+Contains method Using the Binary Search Tree	2438	301
+Contains method Using the Binary Search Tree	2492	301
+Contains method Using the Binary Search Tree	2500	301
+Contains method Using the Binary Search Tree	2516	0
+Contains method Using the Binary Search Tree	2786	301
+Contains method Using the Binary Search Tree	2804	300
+Contains method Using the Binary Search Tree	2824	301
+Contains method Using the Binary Search Tree	2839	300
+Contains method Using the Binary Search Tree	2849	0
+Contains method Using the Binary Search Tree	2925	300
+Contains method Using the Binary Search Tree	3104	0
+Contains method Using the Binary Search Tree	3220	301
+Contains method Using the Binary Search Tree	3304	301
+Contains method Using the Binary Search Tree	3316	300
+Contains method Using the Binary Search Tree	3355	300
+Contains method Using the Binary Search Tree	3422	0
+Contains method Using the Binary Search Tree	3443	300
+Contains method Using the Binary Search Tree	3479	0
+Contains method Using the Binary Search Tree	3515	300
+Contains method Using the Binary Search Tree	3588	300
+Contains method Using the Binary Search Tree	3594	300
+Contains method Using the Binary Search Tree	3751	300
+Contains method Using the Binary Search Tree	3796	301
+Contains method Using the Binary Search Tree	3953	0
+Contains method Using the Binary Search Tree	4292	0
+Contains method Using the Binary Search Tree	4565	0
+Contains method Using the Binary Search Tree	4566	301
+Contains method Using the Binary Search Tree	4656	300
+Contains method Using the Binary Search Tree	4750	300
+Contains method Using the Binary Search Tree	5063	0
+Contains method Using the Binary Search Tree	5307	0
+Contains method Using the Binary Search Tree	5446	301
+Contains method Using the Binary Search Tree	5807	301
+Contains method Using the Binary Search Tree	6035	301
+Contains method Using the Binary Search Tree	6218	0
+Contains method Using the Binary Search Tree	6252	301
+Contains method Using the Binary Search Tree	6467	300
+Contains method Using the Binary Search Tree	6523	301
+Contains method Using the Binary Search Tree	6669	301
+Contains method Using the Binary Search Tree	6707	300
+Contains method Using the Binary Search Tree	6740	301
+Contains method Using the Binary Search Tree	6803	301
+Contains method Using the Binary Search Tree	6875	0
+Contains method Using the Binary Search Tree	6917	0
+Contains method Using the Binary Search Tree	6929	300
+Contains method Using the Binary Search Tree	7190	0
+Contains method Using the Binary Search Tree	7235	300
+Contains method Using the Binary Search Tree	7308	0
+Contains method Using the Binary Search Tree	7364	0
+Contains method Using the Binary Search Tree	7414	300
+Contains method Using the Binary Search Tree	7417	0
+Contains method Using the Binary Search Tree	7646	301
+Contains method Using the Binary Search Tree	7879	0
+Contains method Using the Binary Search Tree	7930	0
+Contains method Using the Binary Search Tree	7973	0
+Contains method Using the Binary Search Tree	8242	0
+Contains method Using the Binary Search Tree	8327	0
+Contains method Using the Binary Search Tree	8355	0
+Contains method Using the Binary Search Tree	8415	300
+Contains method Using the Binary Search Tree	8554	301
+Contains method Using the Binary Search Tree	8602	0
+Contains method Using the Binary Search Tree	8737	0
+Contains method Using the Binary Search Tree	8829	301
+Contains method Using the Binary Search Tree	8877	0
+Contains method Using the Binary Search Tree	8879	0
+Contains method Using the Binary Search Tree	8941	300
+Contains method Using the Binary Search Tree	8960	300
+Contains method Using the Binary Search Tree	9036	300
+Contains method Using the Binary Search Tree	9076	301
+Contains method Using the Binary Search Tree	9271	0
+Contains method Using the Binary Search Tree	9476	0
+Contains method Using the Binary Search Tree	9478	301
+Contains method Using the Binary Search Tree	9515	300
+Contains method Using the Binary Search Tree	9810	0
+Contains method Using the Binary Search Tree	9855	301
+Contains method Using the Binary Search Tree	9894	301
+Contains method Using Java's Tree Set	136	901
+Contains method Using Java's Tree Set	205	901
+Contains method Using Java's Tree Set	313	601
+Contains method Using Java's Tree Set	472	902
+Contains method Using Java's Tree Set	573	1202
+Contains method Using Java's Tree Set	692	601
+Contains method Using Java's Tree Set	833	601
+Contains method Using Java's Tree Set	930	301
+Contains method Using Java's Tree Set	938	300
+Contains method Using Java's Tree Set	1070	301
+Contains method Using Java's Tree Set	1187	301
+Contains method Using Java's Tree Set	1390	301
+Contains method Using Java's Tree Set	1771	601
+Contains method Using Java's Tree Set	1840	300
+Contains method Using Java's Tree Set	2007	301
+Contains method Using Java's Tree Set	2024	301
+Contains method Using Java's Tree Set	2036	601
+Contains method Using Java's Tree Set	2095	301
+Contains method Using Java's Tree Set	2170	301
+Contains method Using Java's Tree Set	2230	602
+Contains method Using Java's Tree Set	2248	0
+Contains method Using Java's Tree Set	2285	300
+Contains method Using Java's Tree Set	2345	301
+Contains method Using Java's Tree Set	2401	300
+Contains method Using Java's Tree Set	2438	601
+Contains method Using Java's Tree Set	2492	601
+Contains method Using Java's Tree Set	2500	601
+Contains method Using Java's Tree Set	2516	301
+Contains method Using Java's Tree Set	2786	301
+Contains method Using Java's Tree Set	2804	300
+Contains method Using Java's Tree Set	2824	301
+Contains method Using Java's Tree Set	2839	300
+Contains method Using Java's Tree Set	2849	300
+Contains method Using Java's Tree Set	2925	301
+Contains method Using Java's Tree Set	3104	300
+Contains method Using Java's Tree Set	3220	301
+Contains method Using Java's Tree Set	3304	300
+Contains method Using Java's Tree Set	3316	301
+Contains method Using Java's Tree Set	3355	300
+Contains method Using Java's Tree Set	3422	300
+Contains method Using Java's Tree Set	3443	601
+Contains method Using Java's Tree Set	3479	601
+Contains method Using Java's Tree Set	3515	301
+Contains method Using Java's Tree Set	3588	300
+Contains method Using Java's Tree Set	3594	301
+Contains method Using Java's Tree Set	3751	301
+Contains method Using Java's Tree Set	3796	301
+Contains method Using Java's Tree Set	3953	300
+Contains method Using Java's Tree Set	4292	601
+Contains method Using Java's Tree Set	4565	601
+Contains method Using Java's Tree Set	4566	301
+Contains method Using Java's Tree Set	4656	301
+Contains method Using Java's Tree Set	4750	300
+Contains method Using Java's Tree Set	5063	300
+Contains method Using Java's Tree Set	5307	300
+Contains method Using Java's Tree Set	5446	300
+Contains method Using Java's Tree Set	5807	301
+Contains method Using Java's Tree Set	6035	301
+Contains method Using Java's Tree Set	6218	300
+Contains method Using Java's Tree Set	6252	301
+Contains method Using Java's Tree Set	6467	300
+Contains method Using Java's Tree Set	6523	601
+Contains method Using Java's Tree Set	6669	300
+Contains method Using Java's Tree Set	6707	300
+Contains method Using Java's Tree Set	6740	300
+Contains method Using Java's Tree Set	6803	301
+Contains method Using Java's Tree Set	6875	601
+Contains method Using Java's Tree Set	6917	300
+Contains method Using Java's Tree Set	6929	301
+Contains method Using Java's Tree Set	7190	301
+Contains method Using Java's Tree Set	7235	301
+Contains method Using Java's Tree Set	7308	300
+Contains method Using Java's Tree Set	7364	300
+Contains method Using Java's Tree Set	7414	300
+Contains method Using Java's Tree Set	7417	300
+Contains method Using Java's Tree Set	7646	301
+Contains method Using Java's Tree Set	7879	301
+Contains method Using Java's Tree Set	7930	301
+Contains method Using Java's Tree Set	7973	301
+Contains method Using Java's Tree Set	8242	301
+Contains method Using Java's Tree Set	8327	300
+Contains method Using Java's Tree Set	8355	301
+Contains method Using Java's Tree Set	8415	0
+Contains method Using Java's Tree Set	8554	301
+Contains method Using Java's Tree Set	8602	301
+Contains method Using Java's Tree Set	8737	300
+Contains method Using Java's Tree Set	8829	301
+Contains method Using Java's Tree Set	8877	0
+Contains method Using Java's Tree Set	8879	300
+Contains method Using Java's Tree Set	8941	300
+Contains method Using Java's Tree Set	8960	301
+Contains method Using Java's Tree Set	9036	300
+Contains method Using Java's Tree Set	9076	300
+Contains method Using Java's Tree Set	9271	301
+Contains method Using Java's Tree Set	9476	301
+Contains method Using Java's Tree Set	9478	301
+Contains method Using Java's Tree Set	9515	300
+Contains method Using Java's Tree Set	9810	300
+Contains method Using Java's Tree Set	9855	301
+Contains method Using Java's Tree Set	9894	301
